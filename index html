@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grade 12 Resources</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Grade 12 Matric Resources</h1>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#subjects">Subjects</a></li>
+                <li><a href="#question-papers">Question Papers</a></li>
+                <li><a href="#study-notes">Study Notes</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="home">
+            <h2>Welcome</h2>
+            <p>This website provides Grade 12 matriculation question papers and study notes to help you prepare for exams.</p>
+        </section>
+        <section id="subjects">
+            <h2>Subjects</h2>
+            <ul>
+                <li><a href="#maths">Mathematics</a></li>
+                <li><a href="#science">Science</a></li>
+                <li><a href="#english">English</a></li>
+                <!-- Add more subjects as needed -->
+            </ul>
+        </section>
+        <section id="question-papers">
+            <h2>Question Papers</h2>
+            <p>Download past question papers for practice.</p>
+            <ul>
+                <li><a href="question-papers/math-2023.pdf" download>Math 2023</a></li>
+                <li><a href="question-papers/science-2023.pdf" download>Science 2023</a></li>
+                <!-- Add more papers as needed -->
+            </ul>
+        </section>
+        <section id="study-notes">
+            <h2>Study Notes</h2>
+            <p>Access study notes for various topics.</p>
+            <ul>
+                <li><a href="study-notes/math-notes.pdf" download>Math Notes</a></li>
+                <li><a href="study-notes/science-notes.pdf" download>Science Notes</a></li>
+                <!-- Add more notes as needed -->
+            </ul>
+        </section>
+        <section id="contact">
+            <h2>Contact</h2>
+            <p>For inquiries, please email us at <a href="mailto:info@example.com">info@example.com</a>.</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Grade 12 Resources</p>
+    </footer>
+</body>
+</html>
